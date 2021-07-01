@@ -40,8 +40,8 @@ This will download that tool globally.
 ## Install
 Now download the code.
 
-## Run the files by the help of nodemon command:
+## Run the files by the help of node command:
 ```sh
-nodemon "filename"
+node "filename"
 ```
 
