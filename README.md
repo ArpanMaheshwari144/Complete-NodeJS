@@ -13,7 +13,7 @@ npm --version
 ```
 Make sure these two commands show versions not error.<hr>
     
-Now open any text editor you want and in text editor terminal run this command:
+Now open any text editor you want and in editor's terminal run this command:
 ```sh
 npm init
 ```
