@@ -45,3 +45,8 @@ Now download the code.
 node "filename"
 ```
 
+## Run the expressapp.js file by the help of nodemon command:
+```sh
+nodemon "filename"
+```
+
