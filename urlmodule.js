@@ -1,3 +1,5 @@
+// for using this include "type":"module" in package.json
+
 import url from 'url';
 
 const myURL = new URL('https://example.org:8000');
