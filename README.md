@@ -40,12 +40,12 @@ This will download that tool globally.
 ## Install
 Now download the code.
 
-## Run the files by the help of node command:
+## You can run the files by the help of node command:
 ```sh
 node "filename"
 ```
 
-## Run the expressapp.js file by the help of nodemon command:
+## Also You can run the files by the help of nodemon command:
 ```sh
 nodemon "filename"
 ```
